@@ -1,5 +1,5 @@
 # Search-page 
-Title: Java Servlet Project - Implementing HTTP Redirect with sendRedirect()
+TITLE: Java Servlet Project - Implementing HTTP Redirect with sendRedirect()
 Create a Java project that implements a custom URL shortening service using the sendRedirect() method. This project will allow users to convert long URLs into short, easy-to-share links.
 URL Shortening: Users can input long URLs, and the application will generate a unique short URL for them.
 Redirection: When users access the short URL, they are redirected to the original long URL using the sendRedirect() method.
