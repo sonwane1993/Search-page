@@ -14,3 +14,6 @@ Understand the flow of data between the client, servlet, and redirected resource
 Target Audience:
 This project is suitable for Java developers who want to enhance their skills in web development using Java Servlets, Eclipse IDE, and client-side redirection techniques.
 By completing this project, you will have a solid understanding of how to implement HTTP redirection using the sendRedirect() method in a Java Servlet-based web application, which is a fundamental concept in web development.
+
+👇 url-link
+http://localhost:9494/SearchingApp/
